@@ -27,3 +27,36 @@ to list all branches (master is the parent branch)
 to list remote
 ### git push [remoteName] [branchName]
 push commited changes to remote repo
+
+##--------v6----------
+### git pull [remoteName]
+to get changes from Remote Repo
+
+
+##--------v7----------
+### git config -l 
+### git config --list
+listing my configuration
+### git help config
+open the manual 
+### git --global user.name
+### git --global user.email
+get configured values for username & user email
+### git --global user.name "name"
+### git --global user.email "name@exemple.xyz"
+set configuration values
+### git config -l --show-origin 
+listing my configurations and thier sources (where they came from ?)
+________________________________________________
+| exemple :
+|	file:C:/Program Files/Git/etc/gitconfig 
+|
+|________________________________________________
+
+### git config --global --unset user.name
+delete a configuration
+### git config --global --edit
+open configuration into an editor 
+### git help [commit,config...]
+open the manual 
+
