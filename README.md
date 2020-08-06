@@ -56,6 +56,15 @@ ________________________________________________
 ### git config --global --unset user.name
 delete a configuration
 ### git config --global --edit
+
+##--------v11----------
+### git config --global alias.st status
+make 'st' a shortcut for status 
+[git st === git status]
+### git config --global alias.st 
+show what 'st' stands for 
+### git config --global alias.cm "commit -m"
+for commands with spaces
 open configuration into an editor 
 ### git help [commit,config...]
 open the manual 
