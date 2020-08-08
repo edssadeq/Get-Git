@@ -79,5 +79,21 @@ to inisialize an empty git repo
 
 push an existing repository from the command line  
 [-u] do pull before push
-
+##--------v12----------
+### git branch 
+listing all branches in the Repo
+### git branch [name]
+create a nex branch called name
+### git checkout [name]
+switch to the branch called name
+### git branch -d [name]
+safe delete a branch (will not be deleted if there are unmerged changes)
+### git branch -D [name]
+force deleting a branch (will be deleted whatever)
+### git checkout -b dark-mode
+Switched to a new branch 'dark-mode' (create + switch)
+### git branch -m [new name]
+rename the branch we switched into
+### git merge [name]
+merging branch (name) with the swetched into branch
 
