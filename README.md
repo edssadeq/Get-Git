@@ -97,3 +97,33 @@ rename the branch we switched into
 ### git merge [name]
 merging branch (name) with the swetched into branch
 
+
+##--------v13----------
+### git stash 
+store working directory
+### git stash list
+list stashes
+### git stash pop
+retrive stored work from the latest stash and delete it
+##--------v14----------
+### git stash save "label"
+label a stash
+### git stash apply 
+retrive stored files from the last stash without deleting stash
+### git stash pop [stash@{is}]
+retrive stored files from a specific stash (and delete the stash)
+### git stash drop 
+delete the latest stash
+### git stash drop [stash@{0}]
+drop a specific stash
+### git stash show
+show stored files in the latest stash
+### git stash show[stash@{0}]
+show stored files in a specific stash
+### git stash clear 
+clear all stash and thier contents
+### git stash branch <name>
+This command creates a new branch with the latest stash,
+ and then deletes the latest stash ( like stash pop).
+ If you need a particular 
+stash you can specify the stash id.
