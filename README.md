@@ -130,12 +130,13 @@ stash you can specify the stash id.
  
  
  ______________________________________
- #Some useful resources :
- [Stash tracks](https://www.freecodecamp.org/news/useful-tricks-you-might-not-know-about-git-stash-e8a9490f0a1a/#:~:text=stash%40%7B1%7D-,Git%20stash%20branch,can%20specify%20the%20stash%20id.&text=This%20will%20be%20useful%20when,latest%20version%20of%20your%20branch.)
+ # Some *useful* resources :
+ - [Stash tracks](https://www.freecodecamp.org/news/useful-tricks-you-might-not-know-about-git-stash-e8a9490f0a1a/#:~:text=stash%40%7B1%7D-,Git%20stash%20branch,can%20specify%20the%20stash%20id.&text=This%20will%20be%20useful%20when,latest%20version%20of%20your%20branch.)
  
- [git doc](https://git-scm.com/doc)
+ - [git doc](https://git-scm.com/doc)
  
- [from dev docs](https://devdocs.io/git/)
+ - [from dev docs](https://devdocs.io/git/)
  
- [Medium Artc](https://medium.com/@caroline.e.okun/a-guide-to-mastering-git-ce91ae05ed03)
+ - [Medium Artc](https://medium.com/@caroline.e.okun/a-guide-to-mastering-git-ce91ae05ed03)
  
+- [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
